@@ -1,0 +1,80 @@
+{
+  "submissions": [
+    {
+      "Name": "ashu07",
+      "Email": "ashu@gmail.com",
+      "PhoneNum": "7675747382",
+      "GithubLink": "https://github.com/AshutoshTripathy21/gihub_profile",
+      "StopwatchTime": "00:00:37"
+    },
+    {
+      "Name": "Ashutosh",
+      "Email": "ashutosh23@gmail.com",
+      "PhoneNum": "8584929485",
+      "GithubLink": "https://github.com/AshutoshTripathy21/gihub_profile",
+      "StopwatchTime": "00:01:19"
+    },
+    {
+      "Name": "Ashutosh",
+      "Email": "ashutosh23@gmail.com",
+      "PhoneNum": "8584929485",
+      "GithubLink": "https://github.com/AshutoshTripathy21/gihub_profile",
+      "StopwatchTime": "00:03:11"
+    },
+    {
+      "Name": "john",
+      "Email": "johnwick@gmail.com",
+      "PhoneNum": "34563425",
+      "GithubLink": "https://github.com/AshutoshTripathy21/gihub_profile",
+      "StopwatchTime": "00:00:32"
+    },
+    {
+      "Name": "jhonathan",
+      "Email": "johna@gmail.com",
+      "PhoneNum": "7895698458",
+      "GithubLink": "https://github.com/AshutoshTripathy21",
+      "StopwatchTime": "00:00:39"
+    },
+    {
+      "Id": 0,
+      "Name": "larke",
+      "Email": "larke34@gmail.com",
+      "PhoneNum": "7878984356",
+      "GithubLink": "https://github.com/larke54",
+      "StopwatchTime": "00:00:35"
+    },
+    {
+      "Id": null,
+      "Name": "tom",
+      "Email": "cruise@gmail.com",
+      "PhoneNum": "6476473645",
+      "GithubLink": "https://github.com/AshutoshTripathy21/Qr_Code_Scanner",
+      "StopwatchTime": "00:00:29",
+      "id": null
+    },
+    {
+      "Id": null,
+      "Name": "lion",
+      "Email": "l@gmail.com",
+      "PhoneNum": "8978789654",
+      "GithubLink": "https://github.com/AshutoshTripathy21/Qr_Code_Scanner",
+      "StopwatchTime": "00:02:18",
+      "id": null
+    },
+    {
+      "Id": null,
+      "Name": "lisa",
+      "Email": "lisa@gmail.com",
+      "PhoneNum": "6574637486",
+      "GithubLink": "https://github.com/AshutoshTripathy21/Qr_Code_Scanner",
+      "StopwatchTime": "00:00:28"
+    },
+    {
+      "Name": "xyz",
+      "Email": "ag@gmail.com",
+      "PhoneNum": "7454637383",
+      "GithubLink": "https://github.com/AshutoshTripathy21/Qr_Code_Scanner",
+      "StopwatchTime": "00:00:19"
+    }
+  ]
+}
